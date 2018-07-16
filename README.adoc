@@ -1,0 +1,7 @@
+== Satellite 6 Disconnected Operations Guide
+
+This repository contains notes on setting up Satellite 6 in disconnected mode
+
+== Included Source
+include::src/sat6-disconnected.adoc[]
+
